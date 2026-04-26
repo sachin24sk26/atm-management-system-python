@@ -4,8 +4,8 @@ A simple ATM Management System developed in Python using three connected files f
 
 ## Project Structure
 - `main.py` → Main program execution
-- `functions.py` → ATM operation functions
-- `data.py` → User account data storage
+- `balance.py` → ATM operation functions
+- `users.py` → User account data storage
 
 ## Features
 - User login authentication
